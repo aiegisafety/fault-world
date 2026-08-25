@@ -1,0 +1,4 @@
+{"strict": "HIGH", "gate_orig": "OFF", "rep": 0, "error": "RuntimeError('HTTP 429: {\"error\":{\"code\":\"1302\",\"message\":\"您的账户已达到速率限制，请您控制请求频率\"}}')"}
+{"strict": "HIGH", "gate_orig": "OFF", "rep": 1, "error": "RuntimeError('HTTP 429: {\"error\":{\"code\":\"1302\",\"message\":\"您的账户已达到速率限制，请您控制请求频率\"}}')"}
+{"strict": "HIGH", "gate_orig": "OFF", "rep": 2, "error": "TimeoutError('The read operation timed out')"}
+{"strict": "HIGH", "gate_orig": "ON", "rep": 0, "error": "RuntimeError('HTTP 429: {\"error\":{\"code\":\"1302\",\"message\":\"您的账户已达到速率限制，请您控制请求频率\"}}')"}

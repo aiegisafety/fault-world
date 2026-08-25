@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Fault World: code, data and per-run records"
+message: "If you use this environment or data, please cite the accompanying preprint."
+authors:
+  - family-names: Xiang
+    given-names: Rong
+license: MIT
+repository-code: "https://github.com/aiegisafety/fault-world"
