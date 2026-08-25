@@ -3,7 +3,7 @@
 Companion repository for the preprint
 
 > **When Do Audited Action Gates Help? The Cost and Failure Conditions of Epistemic
-> Strictness in LLM Agents** — Rong Xiang
+> Strictness in LLM Agents** — Aiegis
 
 Repository: <https://github.com/aiegisafety/fault-world>
 
